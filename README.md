@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Simurg AI](https://www.simurgai.com)
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/muhammetdilmac)
+- 👨‍💻 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/suhedacilek)
 
 - 📫 How to reach me **suhedacilek@outlook.com**
 
