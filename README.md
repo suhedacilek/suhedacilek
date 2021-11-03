@@ -25,7 +25,6 @@
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhedacilek&layout=compact&hide=html" alt="suhedacilek" /></p>
 
 <p align="center">
 <a href="https://kaggle.com/suhedacilek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="suhedacilek" height="30" width="30" /></a>
