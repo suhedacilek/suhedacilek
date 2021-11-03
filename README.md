@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Süheda Çilek</h1>
+<h1 align="center">Hi, I'm Süheda Çilek 👋</h1>
 <h3 align="center">I'm interested in Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="suhedacilek" /> </p>
 
-- 🔭 I’m currently working on [Simurg AI](https://www.simurgai.com)
+- 👩‍💻 I am currently working as an <b>Computer Vision and AI Developer</b> in a company.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/suhedacilek)
+- 🚀 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/suhedacilek)
 
 - 📫 How to reach me **suhedacilek@gmail.com**
 
