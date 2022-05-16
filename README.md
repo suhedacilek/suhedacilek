@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="suhedacilek" /> </p>
 
-- 👩‍💻 I am currently working as an <b>Computer Vision and AI Developer</b> in a company.
+- 👩‍💻 I am currently working as an <b>Machine Learning Engineer</b>
 
 - 🚀 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/suhedacilek)
 
