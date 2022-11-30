@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Süheda Çilek 👋</h1>
-<h3 align="center">I'm interested in Artificial Intelligence</h3>
+<h3 align="center">Interested in AI in Healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="suhedacilek" /> </p>
 
-- 👩‍💻 I am currently working as a <b>Machine Learning Engineer</b>
+- 👩‍💻 I am working as a <b>Machine Learning Engineer</b> at <b>SmartAlpha</b>
 
 - 🚀 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/suhedacilek)
 
