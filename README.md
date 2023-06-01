@@ -7,7 +7,7 @@
 
 - 🚀 All of my projects are available at [https://www.github.com/suhedacilek](https://www.github.com/suhedacilek)
 
-- 📫 How to reach me **suheda.cilek@smartalpha.ai**
+- 📫 How to reach me **suhedacilek@gmail.com**
 
 - 💬 Ask me about Machine Learning, Deep Learning
  
