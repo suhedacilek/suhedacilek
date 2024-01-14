@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Süheda Çilek 👋</h1>
+<h1 align="center">Hi, I'm Suheda Akdag 👋</h1>
 <h3 align="center">Interested in AI in Healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="suhedacilek" /> </p>
