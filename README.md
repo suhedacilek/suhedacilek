@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Suheda Akdag 👋</h1>
-<h3 align="center">Interested in AI in Healthcare</h3>
+<h3 align="center">Interested in AI | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhedacilek" alt="suhedacilek" /> </p>
 
